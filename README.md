@@ -3,7 +3,7 @@
 
 - 🌱 Estudando JavaScript 
 - 👀 Procurando estágio em Recife/PE ou remoto
-- 👾 Cursando o primeiro período de Ciencia Da Computação
+- 👾 Cursando o segundo período de Ciencia Da Computação
 - 😄 Pronouns: ele/dele
 
 <div align="center">
