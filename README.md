@@ -15,9 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarceloCoelho1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MarceloCoelho1&icon=7&color=1)](https://visitcount.itsvg.in)
 
