@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 Desenvolvedor Front-End<br>👀 Procurando estágio em Recife/PE ou remoto<br>👾 Cursando o terceiro período de Ciência Da Computação<br>😄 Pronouns: ele/dele<br>  
-<p>
-  <a href="./Meu CV.pdf">Meu CV</a>
-</p>
+<h1>
+  <a href="./Meu CV.pdf">Baixe aqui meu CV</a>
+</h1>
 
 
 
