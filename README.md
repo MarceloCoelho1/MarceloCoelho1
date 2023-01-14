@@ -3,7 +3,7 @@
 👀 Procurando estágio em Recife/PE ou remoto <br/>
 👾 Cursando o terceiro período de Ciência Da Computação <br/>
 😄 Pronouns: ele/dele <br/>
-<a href="./Meu CV.pdf">📄 Baixe aqui meu CV</a>
+<a href="./Meu CV.pdf" download>📄 Baixe aqui meu CV</a>
 
 
 
