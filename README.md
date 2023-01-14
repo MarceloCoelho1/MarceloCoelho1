@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p>🔭 Desenvolvedor Front-End</p>
+<p style="padding: 0px; margin: 0px;">🔭 Desenvolvedor Front-End</p>
 <p>👀 Procurando estágio em Recife/PE ou remoto</p>
 <p>👾 Cursando o terceiro período de Ciência Da Computação</p>
 <p>😄 Pronouns: ele/dele</p>
