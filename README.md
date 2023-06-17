@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marcelocoelho1.github.io](https://marcelocoelho1.github.io)
 
-- Download my CV [HERE](./MEUCV)
+- Download my CV [HERE](./MEU CV.pdf)
 
 
 
