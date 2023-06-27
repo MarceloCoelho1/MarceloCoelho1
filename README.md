@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="140" src="https://i.gifer.com/6ElP.gif"  />
+<img align="right" height="140" src="https://i.gifer.com/6ElP.gif"/>
 
 ###
 
