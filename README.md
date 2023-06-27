@@ -1,10 +1,4 @@
-
-
-
-
-
-<h2 align="left">Hi 👋! My name is marcelo and I'm a full stack developer, from brazil</h2>
-<a href="./Meu CV.pdf" download>📄 Baixe aqui meu CV</a>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -15,7 +9,7 @@
 
 ###
 
-<img align="right" height="140" src="https://i.gifer.com/6ElP.gif"/>
+<img align="right" height="140" src="https://i.gifer.com/6ElP.gif"  />
 
 ###
 
@@ -60,6 +54,3 @@
 <img src="https://raw.githubusercontent.com/marcelocoelho1/marcelocoelho1/output/snake.svg" alt="Snake animation" />
 
 ###
-
----
-[![](https://visitcount.itsvg.in/api?id=MarceloCoelho1&icon=1&color=1)](https://visitcount.itsvg.in)
