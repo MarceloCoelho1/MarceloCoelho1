@@ -2,7 +2,7 @@
 
    🔭 Desenvolvedor Full Stack <br/>
     👀 Procurando estágio em Recife/PE ou remoto <br/>
-    👾 Cursando o terceiro período de Ciência Da Computação <br/>
+    👾 Cursando o quarto período de Ciência Da Computação <br/>
     😄 Pronouns: ele/dele <br/>
     <a href="./Meu CV.pdf" download>📄 Baixe aqui meu CV</a>
 
