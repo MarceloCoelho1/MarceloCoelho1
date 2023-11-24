@@ -1,5 +1,6 @@
 ![](https://i.gifer.com/YQgT.gif)
 <br>
+
 ### *Hello, my name is Marcelo Henrique.* <br>
 I'm a Computer Science student venturing into the world of development. This GitHub will be my playground, where I'll work on the projects I'm most interested in at the moment. As a very curious person, in this GitHub, I will develop several different projects.<br>
 
