@@ -10,11 +10,10 @@ I'm a Computer Science student venturing into the world of development. This Git
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### 📕 Currently reading 
-??
-
+Neural Networks and Learning Machines - Simon Haykin
 
 ### ✅ books read
-Operating Systems: Desing and implementation
+Operating Systems: Desing and implementation - Andrew S.Tanenbaum & Albert S.Woodhull
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarceloCoelho1&icon=0&color=6)](https://visitcount.itsvg.in)
