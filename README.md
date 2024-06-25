@@ -13,7 +13,7 @@ I'm a Computer Science student venturing into the world of development. This Git
 Computer Networks - Andrew S. Tanebaum
 
 ### ✅ books read
-Operating Systems: Desing and implementation - Andrew S.Tanenbaum & Albert S.Woodhull
+Operating Systems: Design and implementation - Andrew S.Tanenbaum & Albert S.Woodhull
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarceloCoelho1&icon=0&color=6)](https://visitcount.itsvg.in)
