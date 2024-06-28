@@ -5,7 +5,6 @@
 I'm a Computer Science student venturing into the world of development. This GitHub will be my playground, where I'll work on the projects I'm most interested in at the moment. As a very curious person, in this GitHub, I will develop several different projects.<br>
 
 > *What i cannot create, i don't undestand*
->
 > -- <cite>Richard Feynman</cite>
 
 
