@@ -4,6 +4,11 @@
 ### *Hello, my name is Marcelo Henrique.* <br>
 I'm a Computer Science student venturing into the world of development. This GitHub will be my playground, where I'll work on the projects I'm most interested in at the moment. As a very curious person, in this GitHub, I will develop several different projects.<br>
 
+> What i cannot create, i don't undestand
+>
+> -- <cite>Benjamin Franklin</cite>
+
+
 
 ### 💻 Tech Stack:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
