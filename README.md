@@ -23,6 +23,8 @@ Computer Networks - Andrew S. Tanebaum
 
 ### ✅ books read
 Operating Systems: Design and implementation - Andrew S.Tanenbaum & Albert S.Woodhull
+Cracking the coding interview - Gayle Laakmann McDowell
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarceloCoelho1&icon=0&color=6)](https://visitcount.itsvg.in)
