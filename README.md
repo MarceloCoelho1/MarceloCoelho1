@@ -19,7 +19,7 @@ I'm a Computer Science student venturing into the world of development. This Git
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📕 Currently reading 
-Computer Networks - Andrew S. Tanebaum
+UML DIstilled - Martin Fowler
 
 ### ✅ books read
 Operating Systems: Design and implementation - Andrew S.Tanenbaum & Albert S.Woodhull <br>
