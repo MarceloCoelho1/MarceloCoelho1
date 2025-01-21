@@ -24,7 +24,8 @@ UML Distilled - Martin Fowler
 
 ### ✅ books read
 Operating Systems: Design and implementation - Andrew S.Tanenbaum & Albert S.Woodhull <br>
-Cracking the coding interview - Gayle Laakmann McDowell
+Cracking the coding interview - Gayle Laakmann McDowell <br>
+Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy
 
 
 ---
